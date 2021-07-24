@@ -1,0 +1,22 @@
+body {
+    background-color:aquamarine;
+}
+img{
+    border:soild 2px black;
+}
+
+p {
+   background-color:white;
+    max-width:250px;
+}
+
+.image-section {
+    display: flex;
+   justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+        margin-left: 25px;
+    justify-content: center;
+}
